@@ -1,5 +1,5 @@
 pandas==1.*
 folium==0.10.*
-Pillow==7.*
+Pillow==8.*
 matplotlib==3.*
 scikit-learn==0.*
